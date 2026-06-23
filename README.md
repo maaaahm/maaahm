@@ -21,8 +21,12 @@ My goal is to build a career in threat intelligence, combining technical cyberse
 
 
 ## I'm currently working on:
-- An app to track local adult hockey games and time/location changes. Legacy web hosting and a mom n' pop rink makes notifying players of changing schedules incredibly difficult. This uses simple web scraping and push notifications to notify players of any changes.
-- Using RFID tags on my livestock to track which minerals they consume to:
+- <a href="https://github.com/maaaahm/Ice_Time/tree/main" /> Ice Time </a>
+
+  An app to track local adult hockey games and time/location changes. Legacy web hosting and a mom n' pop rink makes notifying players of changing schedules incredibly difficult. This uses simple web scraping and push notifications to notify players of any changes.
+- StockSense
+
+  Using RFID tags on my livestock to track which minerals they consume to:
     - Use data to combat parasitic infection
     - Use data to indicate what minerals our land is deficient in (yes, I ended in a preposition...get over it)
     - Minimize financial investment in unneccessary minerals
